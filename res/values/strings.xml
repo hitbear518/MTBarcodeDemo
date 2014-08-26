@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MTBarcodeTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="device_open_failed_msg">Device open failed! App will quit!</string>
+    <string name="open_serialport_failed_msg">Open SerialPort failed! App will quit!</string>
+
+</resources>
